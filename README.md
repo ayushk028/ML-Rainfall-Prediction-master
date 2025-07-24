@@ -37,10 +37,6 @@ Linear regression models have many real-world applications in an array of indust
 
 Understanding how to implement linear regression models can unearth stories in data to solve important problems.
 
-## Authors
-
-- [@MichaelTobiko](https://github.com/miketobz)
-
 
 ## API Reference
 
@@ -89,10 +85,6 @@ The minimum number of samples required to split an internal node:
 If int, then consider min_samples_split as the minimum number.
 
 If float, then min_samples_split is a fraction and ceil(min_samples_split * n_samples) are the minimum number of samples for each split.
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-tobiko-1563a693)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](twitter.com/MichaelTobiko)
 
 
 ## Demo
